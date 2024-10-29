@@ -1,4 +1,4 @@
-👋 Hi, I’m Sumit Kumar (@SumitInSync)
+👋 Hi, I’m Sumit Kumar 
 
 - 👀 I’m interested in web development, problem-solving, and the latest tech innovations.
 - 🌱 I’m currently learning full-stack development and diving deeper into React, Vite, and backend integrations.
